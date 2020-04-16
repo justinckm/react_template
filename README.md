@@ -17,6 +17,8 @@ Clone the project
 * optional
   * redux asynchronous actions
 
+![Screenshot](overview.png)
+
 ### Task
 1. Create a functional component to store `FirstName` and `Contact`
 2. Use React state (hook) to store the `FirstName`
