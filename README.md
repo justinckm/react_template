@@ -22,7 +22,8 @@ Clone the project
 
 ![Screenshot](overview.png)
 
-### Task
+
+### Task (1 hour assignment)
 1. Create a functional component to store `FirstName` and `Contact`
 2. Use React state (hook) to store the `FirstName`
 3. Validate that `FirstName` is alphanumeric using regex
