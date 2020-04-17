@@ -2,7 +2,10 @@
 
 ### Setup
 Clone the project
-`git clone https://gitlab.com/jpub/react_template.git`
+* `git clone https://gitlab.com/jpub/react_template.git`
+* `yarn install`
+* `yarn start`
+
 
 ### Project focus on the following
 * hooks
