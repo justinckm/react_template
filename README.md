@@ -29,7 +29,7 @@ Clone the project
 3. Validate that `FirstName` is alphanumeric using regex
 4. Use `useEffect` hook to populate the default value of `FirstName` to `defaultName`
 5. Use React Redux to store the `Contact`
-6. Create a reducer `personalDetailsReducer` to be used with `rootReducer`
+6. Enhance the existing reducer `personalDetailsReducer`
 7. Use `useSelector` hook to retrieve the redux state
 8. Use `useDispatch` hook to dispatch changes to redux store
 9. Validate that ContactNumber contains `+` and `numbers` only
