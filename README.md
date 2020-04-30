@@ -24,7 +24,7 @@ Clone the project
 
 
 ### Task (1 hour assignment)
-1. Create a functional component to store `FirstName` and `Contact`
+1. Create a functional component to display `FirstName` and `Contact`
 2. Use React state (hook) to store the `FirstName`
 3. Validate that `FirstName` is alphanumeric using regex
 4. Use `useEffect` hook to populate the default value of `FirstName` to `defaultName`
